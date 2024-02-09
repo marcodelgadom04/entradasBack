@@ -29,13 +29,13 @@ En este punto tienen que cambiar el User, el Password, Host, el puerto y el nomb
 
 Utilice la versión de NodeJs 18.18.2 para este proyecto, una vez en esa versión ejecute el siguiente comando para instalar las dependencias.
 
-````
+```npm
 npm install
 ```
 
 Una vez que se terminen de instalar las dependencias, ejecutamos el siguiente comando para iniciar el proyecto.
 
-````
+```npm
 npm run start
 ```
 
